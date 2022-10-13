@@ -28,9 +28,8 @@ Cyclistic is a fictional company used for the purposes of the Google Data Analyt
 Motivate International Inc. under this license: https://ride.divvybikes.com/data-license-agreement. 
 The data can be found here: https://divvy-tripdata.s3.amazonaws.com/index.html
 
-Data cleaning:
 
-Loading the data:
+R Markdown:
 
 ---
 title: "Cyclistic Case Study"
